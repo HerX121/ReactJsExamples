@@ -13,4 +13,4 @@ Entra con terminal en la carpeta de la App que desees y ejecuta los siguientes c
  npm install 
  npm start
  ```
- Esto abrira una ventana de tu navegar con la app ejecutandose
+ Esto abrira una ventana de tu navegador con la app ejecutandose
