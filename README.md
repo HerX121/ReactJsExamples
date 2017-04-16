@@ -1,5 +1,5 @@
 # ReactJsExamples
-Recopilación de Apps sencillas en ReactJS creadas en base a los usos [mencionados en su sitio web ](URL "https://facebook.github.io/react/")
+Recopilación de Apps sencillas en ReactJS creadas en base a los usos [mencionados en su sitio web ](https://facebook.github.io/react/)
 
 ## Las apps son:
 * Un componente sencillo que muestra un nombre.
